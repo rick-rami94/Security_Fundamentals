@@ -1,3 +1,3 @@
 # Security_Fundamentals
-- This is where I will provide code and instructions on some of the fundamentals of information security. 
-- Matching .txt files provide further information of some of the security principles that are applied here. 
+Thank you for checking out my security fundamentals repository. Here I have several projects that are focused on cybersecurity or cryptography. 
+Each of the domains within security hold their respective project folders. The structure of these folders are consistent throughout. 
